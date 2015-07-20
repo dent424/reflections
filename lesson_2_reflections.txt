@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+When you initialize a repository, the computer creates a .git folder that will store info from future commits.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+The staging area offers a place that tells you what will happen in the future IF you commit. This means that it allows you a preview of what will happen when you commit without having you actually conduct the commit.
