@@ -1,0 +1,3 @@
+When would you want to use a remote repository rather than keeping all your work local?
+
+A remote repository would be helpful as a backup of your data in case your local machine has problems. It might also be helpful as a way to share work and collaborate. 
